@@ -215,6 +215,7 @@
     text-align: left;
     margin-top: 48px;
     margin-left: 40px;
+    margin-right: 20px;
     text-decoration: underline;
     text-transform: uppercase;
     font-size: 22px;
@@ -266,7 +267,7 @@
 }
 
 .about-column {
-    margin-left: 28px; 
+    margin-left: 28px;
 }
 
 .about-title {
